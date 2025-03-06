@@ -1,6 +1,6 @@
-#CLI Task Tracker
+# CLI Task Tracker
 
-##Installation
+## Installation
 You can clone the repository via
 ```
 git clone https://github.com/kvatcher/task_tracker
